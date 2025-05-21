@@ -1,20 +1,27 @@
-# JavaScript Learning Journey 🚀
+JavaScript Learning Journey 🚀
 
-Welcome to my JavaScript learning log!  
-This repository documents my day-by-day progress as I learn JavaScript from the ground up.
+Welcome to my JavaScript learning log!This repository documents my day-by-day progress as I learn JavaScript from the ground up.
 
----
+📅 Progress Log
 
-## 📅 Progress Log
+Day
 
-| Day | Topics Covered |
-|-----|----------------|
-| Day 1 | `var`, `let`, `const`, JavaScript Call Stack |
+Topics Covered
 
-> I'll update this table daily as I learn new topics.
+Day 1
 
----
+var, let, const, JavaScript Call Stack
 
-## 📂 Structure
+Day 2
+
+Hoisting, Arithmetic Operators (+, -, *, /, %, **), Comparison Operators (==, ===, !=, !==, >, <, >=, <=), Logical Operators (&&, `
+
+
+
+, !), Assignment Operators (=, +=, -=, *=, /=), Unary Operators (++, --`)
+
+I'll update this table daily as I learn new topics.
+
+📂 Structure
 
 Each day has its own folder:
